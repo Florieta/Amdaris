@@ -4,3 +4,5 @@ Console.WriteLine("Peter`s new line");
 Console.WriteLine("Julie`s new line");
 
 double DoubleTotalSum(double a, double b) => a + b;
+
+int TotalSum(int a, int b) => a + b;
