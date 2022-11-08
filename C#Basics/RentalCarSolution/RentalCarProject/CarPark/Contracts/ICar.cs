@@ -8,11 +8,6 @@ namespace RentalCarProject.CarPark.Contracts
 {
     public interface ICar
     {
-        double FuelConsumption { get; }
-
-        double Capacity { get; }
-      
-
-        double CalculateAvailableDistance(double FuelConsumption, double Capacity);
+        double CalculateAvailableDistance();
     }
 }

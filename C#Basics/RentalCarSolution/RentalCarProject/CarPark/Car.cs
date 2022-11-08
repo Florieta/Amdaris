@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RentalCarProject.CarPark.Contracts;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace RentalCarProject.CarPark
 {
-    public abstract class Car
+    public abstract class Car : ICar
     {
         private string make;
         private string model;
@@ -15,8 +16,11 @@ namespace RentalCarProject.CarPark
         private int makeYear;
         private int seats;
         private string color;
+        private double capacity;
+        private double consumption;
 
-        protected Car(string make, string model, string regNumber, int makeYear, int horsePower, string color, int seats)
+        protected Car(string make, string model, string regNumber, int makeYear, int horsePower, string color, int seats,
+            double capacity, double consumption)
         {
             this.Make = make;
             this.Model = model;
@@ -25,6 +29,8 @@ namespace RentalCarProject.CarPark
             this.MakeYear = makeYear;
             this.Color = color;
             this.Seats = seats;
+            this.Capacity = capacity;
+            this.Consumption = consumption;
         }
 
         public string Make
@@ -112,15 +118,44 @@ namespace RentalCarProject.CarPark
                 this.seats = value;
             }
         }
+
+        public double Capacity
+        {
+            get => this.capacity;
+
+            private set
+            {
+                if (value < 1)
+                {
+                    throw new ArgumentException("Invalid capacity");
+                }
+                this.capacity = value;
+            }
+        }
+
+        public double Consumption
+        {
+            get => this.consumption;
+
+            private set
+            {
+                if (value < 1)
+                {
+                    throw new ArgumentException("Invalid consumption");
+                }
+                this.consumption = value;
+            }
+        }
         public string Color { get; }
 
-        public virtual void VirtualNumberOfSeats(int seats)
+        public virtual double CalculateAvailableDistance()
+        {
+            return Capacity / Consumption * 100;
+        }
+
+        public virtual void CountOfSeats(int seats)
         {
             Console.WriteLine("The {0} has {1} number of seats.", this.GetType().Name, seats);
         }
-
-       
-       
-
     }
 }
