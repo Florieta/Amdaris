@@ -1,0 +1,15 @@
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\bin\Debug\net6.0\StringsAndDateTimes.exe
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\bin\Debug\net6.0\StringsAndDateTimes.deps.json
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\bin\Debug\net6.0\StringsAndDateTimes.runtimeconfig.json
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\bin\Debug\net6.0\StringsAndDateTimes.dll
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\bin\Debug\net6.0\StringsAndDateTimes.pdb
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\obj\Debug\net6.0\StringsAndDateTimes.csproj.AssemblyReference.cache
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\obj\Debug\net6.0\StringsAndDateTimes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\obj\Debug\net6.0\StringsAndDateTimes.AssemblyInfoInputs.cache
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\obj\Debug\net6.0\StringsAndDateTimes.AssemblyInfo.cs
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\obj\Debug\net6.0\StringsAndDateTimes.csproj.CoreCompileInputs.cache
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\obj\Debug\net6.0\StringsAndDateTimes.dll
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\obj\Debug\net6.0\refint\StringsAndDateTimes.dll
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\obj\Debug\net6.0\StringsAndDateTimes.pdb
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\obj\Debug\net6.0\StringsAndDateTimes.genruntimeconfig.cache
+D:\SoftUni\source\Amdaris\StringsDatesAndTimes\StringsAndDateTimes\StringsAndDateTimes\obj\Debug\net6.0\ref\StringsAndDateTimes.dll

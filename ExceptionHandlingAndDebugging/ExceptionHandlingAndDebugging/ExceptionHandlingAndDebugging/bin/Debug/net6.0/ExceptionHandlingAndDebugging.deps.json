@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExceptionHandlingAndDebugging/1.0.0": {
+        "runtime": {
+          "ExceptionHandlingAndDebugging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExceptionHandlingAndDebugging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
