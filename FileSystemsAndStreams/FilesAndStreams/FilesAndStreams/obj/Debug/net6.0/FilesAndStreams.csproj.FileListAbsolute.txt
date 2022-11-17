@@ -1,0 +1,15 @@
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\bin\Debug\net6.0\FilesAndStreams.exe
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\bin\Debug\net6.0\FilesAndStreams.deps.json
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\bin\Debug\net6.0\FilesAndStreams.runtimeconfig.json
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\bin\Debug\net6.0\FilesAndStreams.dll
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\bin\Debug\net6.0\FilesAndStreams.pdb
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\obj\Debug\net6.0\FilesAndStreams.csproj.AssemblyReference.cache
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\obj\Debug\net6.0\FilesAndStreams.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\obj\Debug\net6.0\FilesAndStreams.AssemblyInfoInputs.cache
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\obj\Debug\net6.0\FilesAndStreams.AssemblyInfo.cs
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\obj\Debug\net6.0\FilesAndStreams.csproj.CoreCompileInputs.cache
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\obj\Debug\net6.0\FilesAndStreams.dll
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\obj\Debug\net6.0\refint\FilesAndStreams.dll
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\obj\Debug\net6.0\FilesAndStreams.pdb
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\obj\Debug\net6.0\FilesAndStreams.genruntimeconfig.cache
+D:\SoftUni\source\Amdaris\FileSystemsAndStreams\FilesAndStreams\FilesAndStreams\obj\Debug\net6.0\ref\FilesAndStreams.dll

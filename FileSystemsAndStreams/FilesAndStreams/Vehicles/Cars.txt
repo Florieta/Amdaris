@@ -1,0 +1,6 @@
+Audi,Toyota,Car
+Van,Truck,Other
+Volvo,Hundai,Car
+Train,Bus,Other
+Ford,Opel,Car
+BMW,Mercedes,Car
