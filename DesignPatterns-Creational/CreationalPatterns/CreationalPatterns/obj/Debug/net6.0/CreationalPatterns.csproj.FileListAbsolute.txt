@@ -1,0 +1,15 @@
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\bin\Debug\net6.0\CreationalPatterns.exe
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\bin\Debug\net6.0\CreationalPatterns.deps.json
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\bin\Debug\net6.0\CreationalPatterns.runtimeconfig.json
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\bin\Debug\net6.0\CreationalPatterns.dll
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\bin\Debug\net6.0\CreationalPatterns.pdb
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.csproj.AssemblyReference.cache
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.AssemblyInfoInputs.cache
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.AssemblyInfo.cs
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.csproj.CoreCompileInputs.cache
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.dll
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\refint\CreationalPatterns.dll
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.pdb
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.genruntimeconfig.cache
+D:\SoftUni\source\Amdaris\DesignPatterns-Creational\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\ref\CreationalPatterns.dll
