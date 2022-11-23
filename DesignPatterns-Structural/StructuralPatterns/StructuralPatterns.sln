@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "StructuralPatterns\Decorator.csproj", "{169FED82-8ED8-4437-A6B2-F6BC78312CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{848A3B28-C406-4B5D-A39F-F5B39F36DE0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{F3D69FAB-3C40-4E17-9B72-A34E47A4951B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169FED82-8ED8-4437-A6B2-F6BC78312CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169FED82-8ED8-4437-A6B2-F6BC78312CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169FED82-8ED8-4437-A6B2-F6BC78312CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169FED82-8ED8-4437-A6B2-F6BC78312CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848A3B28-C406-4B5D-A39F-F5B39F36DE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848A3B28-C406-4B5D-A39F-F5B39F36DE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848A3B28-C406-4B5D-A39F-F5B39F36DE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848A3B28-C406-4B5D-A39F-F5B39F36DE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D69FAB-3C40-4E17-9B72-A34E47A4951B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D69FAB-3C40-4E17-9B72-A34E47A4951B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D69FAB-3C40-4E17-9B72-A34E47A4951B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D69FAB-3C40-4E17-9B72-A34E47A4951B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A53F6C06-7DB2-4397-854F-BF9FDE6D9DFC}
+	EndGlobalSection
+EndGlobal

@@ -27,9 +27,6 @@ namespace CreationalPatterns.Singleton
             }
             return _logger;
         }
-        public void WriteMessage(string message)
-        {
-
-        }
+        
     }
 }
